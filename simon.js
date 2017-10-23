@@ -227,11 +227,11 @@ function userGameplay(){
 
 		setTimeout(function(){
 			greenBox.style.filter = 'brightness(100%)';
-		}, 500);
+		}, 400);
 
 		if(user.toString() === computer.toString()){
 		console.log('values equal');
-		setTimeout(gameplay, 1000);
+		setTimeout(gameplay, 800);
 		} 
 
 		for(let i = 0; i < computer.length && i < user.length; i++){
@@ -247,11 +247,11 @@ function userGameplay(){
 
 		setTimeout(function(){
 			redBox.style.filter = 'brightness(100%)';
-		}, 500);
+		}, 400);
 
 		if(user.toString() === computer.toString()){
 		console.log('values equal');
-		setTimeout(gameplay, 1000);
+		setTimeout(gameplay, 800);
 		} 
 
 		for(let i = 0; i < computer.length && i < user.length; i++){
@@ -268,11 +268,11 @@ function userGameplay(){
 
 		setTimeout(function(){
 			blueBox.style.filter = 'brightness(100%)';
-		}, 500);
+		}, 400);
 
 		if(user.toString() === computer.toString()){
 		console.log('values equal');
-		setTimeout(gameplay, 1000);
+		setTimeout(gameplay, 800);
 		} 
 
 		for(let i = 0; i < computer.length && i < user.length; i++){
@@ -288,11 +288,11 @@ function userGameplay(){
 
 		setTimeout(function(){
 			yellowBox.style.filter = 'brightness(100%)';
-		}, 500);
+		}, 400);
 
 		if(user.toString() === computer.toString()){
 		console.log('values equal');
-		setTimeout(gameplay, 1000);
+		setTimeout(gameplay, 800);
 		} 
 
 		for(let i = 0; i < computer.length && i < user.length; i++){
