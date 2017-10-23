@@ -227,7 +227,7 @@ function userGameplay(){
 
 		setTimeout(function(){
 			greenBox.style.filter = 'brightness(100%)';
-		}, 700);
+		}, 400);
 
 		if(user.toString() === computer.toString()){
 		console.log('values equal');
@@ -247,7 +247,7 @@ function userGameplay(){
 
 		setTimeout(function(){
 			redBox.style.filter = 'brightness(100%)';
-		}, 700);
+		}, 400);
 
 		if(user.toString() === computer.toString()){
 		console.log('values equal');
@@ -268,7 +268,7 @@ function userGameplay(){
 
 		setTimeout(function(){
 			blueBox.style.filter = 'brightness(100%)';
-		}, 700);
+		}, 400);
 
 		if(user.toString() === computer.toString()){
 		console.log('values equal');
@@ -288,7 +288,7 @@ function userGameplay(){
 
 		setTimeout(function(){
 			yellowBox.style.filter = 'brightness(100%)';
-		}, 700);
+		}, 400);
 
 		if(user.toString() === computer.toString()){
 		console.log('values equal');
